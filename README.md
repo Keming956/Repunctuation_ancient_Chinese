@@ -6,4 +6,4 @@ Ce projet vise à explorer différentes méthodes de reponctuation automatique p
 - **`LSTM.ipynb`** : Implémentation d'un modèle d'étiquetage de séquence (BiLSTM), où chaque caractère du texte reçoit une étiquette de ponctuation
 - **`generator.ipynb`** : Implémentation d’un modèle sequence-to-sequence à attention pour générer la version ponctuée d’une séquence non ponctuée (encoder-decoder GRU avec attention).
 - **`nettoyage.ipynb`** : Scripts de nettoyage, prétraitement et structuration des corpus (suppression de ponctuation, split, etc.)
-- **`generator_abandonné.ipynb`** : Ancienne version ou essai non retenu du générateur
+- **`generator_abandonné.ipynb`** : essai non retenu du generator
